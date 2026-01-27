@@ -1,0 +1,46 @@
+<% layout("layouts/Layout") %>
+<div class="container2 mb-4">
+<nav class="navbar ">
+  <div class="container-fluid ">
+    <button class="btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar" aria-controls="sidebar">
+      <i class="bi bi-list fs-3"></i> <!-- Hamburger Icon -->
+    </button>
+  </div>
+</nav>
+
+<!-- Sidebar (Offcanvas) -->
+<div class="offcanvas offcanvas-start" tabindex="-1" id="sidebar" aria-labelledby="sidebarLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="sidebarLabel">Menu</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link" href="/student/mentor"><i class="bi bi-person-badge me-2"></i>My Mentor</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/student/live"><i class="bi bi-camera-video me-2"></i>Live Sessions</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/student/support"><i class="bi bi-chat-left-text me-2"></i>CareerHub Support</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="/logout"><i class="bi bi-box-arrow-right me-2"></i>Logout</a>
+      </li>
+    </ul>
+  </div>
+</div>
+  
+<div class="hero-student">
+  <div class="photo-hero">
+    <img src="/images/StudentHome.png" alt="">
+  </div>
+  <div class="text-hero">
+    <h1>Welcome, <%= user.username %> ⚡</h1>
+  </div>
+</div>
+
+
+  
+</div>
