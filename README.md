@@ -125,6 +125,9 @@ CareerHub-demo-main/
 **Mohammad Sarfraz Khan**  
 Founder & CEO – CareerHub  
 
+**Aashirwad Singh User_id - aashirwad89**
+Developer 
+
 > “CareerHub is not just a platform, it’s a mission to reduce career regret.”
 
 > Thanks to My Friend **Aashirwad Singh user_id - aashirwad89** to Developed the Website 
