@@ -126,7 +126,7 @@ CareerHub-demo-main/
 Founder & CEO – CareerHub  
 
 **Aashirwad Singh User_id - aashirwad89**
-Developer 
+- Developer 
 
 > “CareerHub is not just a platform, it’s a mission to reduce career regret.”
 
