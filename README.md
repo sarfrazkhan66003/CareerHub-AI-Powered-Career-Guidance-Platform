@@ -127,16 +127,7 @@ Founder & CEO – CareerHub
 
 > “CareerHub is not just a platform, it’s a mission to reduce career regret.”
 
----
-
-## ⭐ Support & Contribution
-
-If you like this project:
-- ⭐ Star the repository  
-- 🍴 Fork it  
-- 💬 Share your feedback  
-
-Let’s build the future of career guidance together 🚀  
+> Thanks to My Friend **Aashirwad Singh user_id - aashirwad89** to Developed the Website 
 
 ---
 
